@@ -1,3 +1,5 @@
+CREATE restaurant;
+USE restaurant;
 CREATE TABLE plats (
  id INT PRIMARY KEY,
  nom VARCHAR(100),
